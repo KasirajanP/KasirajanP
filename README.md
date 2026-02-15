@@ -27,33 +27,33 @@ I enjoy designing clean backend architectures, optimizing API performance, and s
 
 💻 Languages
 -Python
--C++
--JavaScript
+/ C++
+/ JavaScript
 
 
 ⚙ Backend
 -Django
--Django REST Framework
--REST API Design
--Authentication & Role-Based Access Control
--Database Modeling
+/ Django REST Framework
+/ REST API Design
+/ Authentication & Role-Based Access Control
+/ Database Modeling
 
 
 🎨 Frontend
 -React.js
--React Native
--TailwindCSS
+/ React Native
+/ TailwindCSS
 
 
 🗄 Databases
 -SQLite
--SQL
+/ SQL
 
 
 ☁ Tools & Cloud
 -Git & GitHub
--AWS
--Linux Environment
+/ AWS
+/ Linux Environment
 
 ## 🚀 Projects
 📌 Flashcard Mobile Application
